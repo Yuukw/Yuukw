@@ -3,11 +3,11 @@
 
 # 👑 ARISE. — Gabriel Silva
 
-### ⚔️ Olá, eu sou o Yuukw
+### ⚔️ Olá, eu sou o Gabriel
 > "O caçador mais fraco de todos... se tornou o mais forte."
 
 - ⚔️ No grind diário pra upar de nível na programação
-- 📍 Gama - DF, Brasil
+- 📍 Santa Maria - DF, Brasil
 - 🎯 Missão atual: Virar dev e construir meus próprios sistemas
 - 💀 `E-rank` hoje, `S-rank` amanhã
 
