@@ -1,4 +1,4 @@
-[Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=YUUKW&fontSize=90&fontColor=a855f7&animation=fadeIn&fontAlignY=35)
+[Banner](https://raw.githubusercontent.com/Yuukw/Yuukw/main/banner.png)
 
 # 👑 ARISE. — Gabriel Silva
 
