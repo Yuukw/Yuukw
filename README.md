@@ -1,5 +1,4 @@
-![Solo Leveling](https://i.imgur.com/2l2Zg0p.gif)
-
+[Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=YUUKW%20-%20SHADOW%20MONARCH&fontSize=60&fontColor=a855f7&animation=fadeIn)
 # 👑 ARISE. — Gabriel Silva
 
 ### ⚔️ Olá, eu sou o Yuukw
