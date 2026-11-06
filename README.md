@@ -1,4 +1,5 @@
-[Banner](https://raw.githubusercontent.com/Yuukw/Yuukw/main/banner.png)
+<img width="2240" height="1120" alt="WhatsApp Image 2026-11-06 at 17 55 24" src="https://github.com/user-attachments/assets/96aa8f13-8471-4f71-8fbf-8c0dec6c78e6" />
+
 
 # 👑 ARISE. — Gabriel Silva
 
