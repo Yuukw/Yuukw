@@ -1,4 +1,5 @@
-[Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=YUUKW%20-%20SHADOW%20MONARCH&fontSize=60&fontColor=a855f7&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=YUUKW%20-%20SHADOW%20MONARCH&fontSize=60&fontColor=a855f7&animation=fadeIn)
+
 # 👑 ARISE. — Gabriel Silva
 
 ### ⚔️ Olá, eu sou o Yuukw
@@ -31,6 +32,7 @@
 ### 📊 Meus Stats de Caçador
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Yuukw&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=a855f7)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuukw&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=a855f7)
 
 ### 💬 Citação
